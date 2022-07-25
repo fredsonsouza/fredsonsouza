@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey, What's up? 👋, I'm Fredson Souza or Fred
 
-<!--
-**fredsonsouza/fredsonsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
 
-Here are some ideas to get you started:
+I'm a Front-End Developer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :technologist: Current Stack
+- 🥇 Main language: `Javascript`
+- ⚡️  Front-End: `HTML5`, `CSS`, `Reactjs`, `Javascript`
+- ✍🏻 Layout Design: `Figma`
+- :package: Version Code Control: `Git & GitHub`
+- :wrench: Tools: `VsCode`
+
+#### Contacts
+
+- 📧 E-mail: fredsouza.dev@gmail.com
+- 👤 Linkedin: https://www.linkedin.com/in/fredsonsilvasouza/
