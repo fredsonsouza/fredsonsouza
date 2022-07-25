@@ -1,4 +1,4 @@
-### Hey, What's up? 👋, I'm Fredson Souza or Fred
+### Hey, What's up? 👋, I'm Fredson Souza or Fred 🤙😄
 
 ### About
 
